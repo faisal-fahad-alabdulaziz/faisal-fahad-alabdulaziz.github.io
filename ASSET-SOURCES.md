@@ -8,3 +8,5 @@ Employer logos appear only to identify Faisal Alabdulaziz's professional experie
 The marks remain the property of their respective owners.
 
 Salasa light variant: original logo geometry retained; white lettering changed to dark charcoal for the requested white background.
+
+Character poses: generated from the existing personal portrait, 26 November 2026; welcome, thinking, explanation and thumbs-up sprite.
