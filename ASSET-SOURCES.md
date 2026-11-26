@@ -6,3 +6,5 @@ Employer logos appear only to identify Faisal Alabdulaziz's professional experie
 - Subway: wordmark PNG from https://brandlogos.net/wp-content/uploads/2016/08/subway-logo_brandlogos.net_lsxi9-512x103.png, retrieved 26 November 2026. Brand identity cross-checked against Subway's newsroom logo listing at https://newsroom.subway.com/Logos.
 
 The marks remain the property of their respective owners.
+
+Salasa light variant: original logo geometry retained; white lettering changed to dark charcoal for the requested white background.
